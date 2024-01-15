@@ -1,5 +1,4 @@
 <h1 align="center">Welcome on my profile !</h1>
-<h3 align="center">My name is Louise and I'm a creative and hardworking datascientist 👩‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=louise-davy&label=Profile%20views&color=0e75b6&style=flat" alt="louise-davy" /> </p>
 
