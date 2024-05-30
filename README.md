@@ -2,9 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=louise-davy&label=Profile%20views&color=0e75b6&style=flat" alt="louise-davy" /> </p>
 
-- 🔭 I’m currently working on [the EXStream algorithm](https://github.com/louise-davy/exstream-implementation)
-
-- 🌱 I’m a student at the **Master 2 Datascience from Institut Polytechnique de Paris**
+I’m a student at the **Master 2 Datascience from Institut Polytechnique de Paris**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
